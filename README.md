@@ -6,5 +6,4 @@
 <<<<<<< HEAD
 5.refer to [ethers.js](https://docs.ethers.org/v6/api/providers/#Provider
 ) v6.2.2 <br>
-=======
->>>>>>> 6feccd2fda00e3458d086d09a31eb6a55eda43f4
+
