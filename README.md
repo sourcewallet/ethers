@@ -1,4 +1,9 @@
 # ethers.js
+
+
+在开始之前，你需要安装[vscode](https://code.visualstudio.com/) 最好用的编辑器<br>
+
+
 ### 1.npm install ethers 安装ethers库，最新版6.2.3<br>
 ### 2.register your [alchemy](https://alchemy.com/?r=79fcfad4-2ed7-4c98-a89d-45885e418649) account 注册alchemy的账号<br>
 ### 3.get your api_key 获得api_key<br>
