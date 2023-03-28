@@ -1,6 +1,5 @@
 import { ethers } from "ethers";
 
-
 //const provider_alchemy = new ethers.JsonRpcProvider('https://eth-mainnet.g.alchemy.com/v2/3ZVuPHE7aaKrh-5zPRCVtwwphpHj7fpb')//instead of your api_key
 const providerGoerli = new ethers.JsonRpcProvider('https://eth-goerli.g.alchemy.com/v2/API_KEY')
 
