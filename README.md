@@ -1,2 +1,2 @@
 # ethers
-npm install ethers
+1.npm install ethers
