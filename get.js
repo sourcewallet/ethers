@@ -4,6 +4,7 @@ import { ethers } from "ethers";
 const providerGoerli = new ethers.JsonRpcProvider('https://eth-goerli.g.alchemy.com/v2/API_KEY')
 
 
+
 const main = async () => {
     console.log("1. getbalance on mainnet and Goerli");
     
