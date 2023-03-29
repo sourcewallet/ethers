@@ -10,6 +10,6 @@
 #### 4.npm install dotenv 安装dotenv库，方便隐私配置<br>
 #### 5.config your .env file 自定义.env信息，方便配置账户地址及api信息等<br>
 #### 6.refer to [ethers.js](https://docs.ethers.org/v6/api/providers/#Provider) v6.2.2  
-方法可以参考文档，6.0版本改了providers utils getbalance的部分方法<br>
+方法可以参考文档，6.0版本改了providers、 utils 、getbalance、bignumber的部分方法<br>
 #### 7.node getBalance.js 执行<br>
 
